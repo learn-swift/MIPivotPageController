@@ -1,0 +1,2 @@
+# MIPivotPageController
+MIPivotPageController allows changing viewcontroller swiping horizontally
