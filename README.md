@@ -1,5 +1,5 @@
 # MIPivotPageController
-MIPivotPageController allows switching viewcontroller with an horizontal swipe
+MIPivotPageController allows switching view controllers with an horizontal swipe
 
 # Setup
 - Copy the "MIPivotPageController" folder to your project.
@@ -8,7 +8,7 @@ MIPivotPageController allows switching viewcontroller with an horizontal swipe
   MIPivotPageController.get(rootPages: [viewControllerA, viewControllerB, viewControllerC]) 
 ```
 
-- If you want, you can customize the UI whith a simple closure
+- If you want, you can customize the UI with a simple closure
 ```
 
   MIPivotPageController.get(rootPages: [viewControllerA, viewControllerB, viewControllerC])  {
